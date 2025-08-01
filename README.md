@@ -1,1 +1,1 @@
-# OCR-Extractor
+# OCR-Text-Extractor
